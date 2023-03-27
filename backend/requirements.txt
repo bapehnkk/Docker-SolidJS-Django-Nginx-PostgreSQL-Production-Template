@@ -1,0 +1,12 @@
+asgiref
+Django
+gevent
+greenlet
+gunicorn
+psycopg2-binary
+pytz
+sqlparse
+zope.event
+zope.interface
+
+
